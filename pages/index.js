@@ -354,9 +354,9 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to denty&aposs cottage!</h1>
+          <h1 className={styles.title}>Welcome to denty&apos;s cottage!</h1>
           <div className={styles.description}>
-            Its an NFT collection for denty&aposs friends in Crypto.
+            Its an NFT collection for denty&apos;s friends in Crypto.
           </div>
           <div className={styles.description}>
             {tokenIdsMinted}/20 have been minted
@@ -369,7 +369,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by jujube&aposs joke
+        Made with &#10084; by jujube&apos;s joke
       </footer>
     </div>
   );
